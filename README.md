@@ -57,6 +57,27 @@ Le système repose sur l’intégration de plusieurs composants matériels et lo
 * 🏫 Gestion sécurisée des infrastructures académiques
 
 ---
+## 📸 Quelques captures du système  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maloani/UniSecure-ID/main/im1.JPG" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maloani/UniSecure-ID/main/im2.JPG" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maloani/UniSecure-ID/main/im3.JPG" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maloani/UniSecure-ID/main/im4.JPG" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maloani/UniSecure-ID/main/im6.JPG" width="80%" />
+</p>
 
 ## 🚀 Installation
 
